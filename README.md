@@ -99,3 +99,8 @@ CloudWatch provides monitoring and operational visibility.
 - Cloud Security
 - Network Segmentation
 - Cloud Monitoring
+
+## Video Walkthrough
+
+Watch the full project walkthrough here:
+[Loom Demo Video](https://www.loom.com/share/30786d6f42d44e9bb1dac7c188a1e26a)
